@@ -24,5 +24,5 @@ print(myDict.get("harry")) # Prints value associated with key "harry"
 print(myDict["harry"]) # Prints value associated with key "harry"
 
 # The difference between .get and [] sytax in Dictionaries?
-print(myDict.get("harry2")) # Returns None as harry2 is not present in the dictionary
-print(myDict["harry2"]) # throws an error as harry2 is not present in the dictionary
+# print(myDict.get("harry2")) # Returns None as harry2 is not present in the dictionary
+# print(myDict["harry2"]) # throws an error as harry2 is not present in the dictionary
