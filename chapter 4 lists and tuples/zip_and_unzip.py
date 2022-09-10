@@ -8,3 +8,7 @@ print(list(zip(first_name, last_name)))
 
 for x,y in zip(first_name, last_name):
     print(x+" "+y)
+    
+    
+# same goies for unzip 
+

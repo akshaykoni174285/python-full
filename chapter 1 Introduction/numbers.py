@@ -10,7 +10,3 @@
 3%4 # addition
 
 # hwo to access latest value and operation on that
-average = 45.5/3
-average+=43
-average+= _
-print(average)
