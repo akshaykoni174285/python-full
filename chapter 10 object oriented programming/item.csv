@@ -1,0 +1,7 @@
+name,price,quantity
+
+'phone', 1000, 4
+"laptop", 2000, 4
+"printer", 4000, 2
+"keyboard", 2000, 1
+"mouse", 500 , 6
